@@ -1,6 +1,6 @@
-baseURL = 'https://dudnjsckrgo.github.io/blog/'
+baseURL = 'https://YOUNTAEHEE.github.io/blog/'
 languageCode = 'ko-KR'
-title = 'TripleYoung'
+title = 'YOUNTAEHEE'
 theme = 'blowfish'
 defaultContentLanguage = 'ko'
 defaultContentLanguageInSubdir = true

@@ -13,7 +13,7 @@
         languageCode = 'ko-KR'
         languageName = 'Korean'
         weight = 2
-        title = "트리플영"
+        title = "YOUNTAEHEE"
         [languages.ko.menu]
         [languages.ko.params]
             displayName = "KO"
