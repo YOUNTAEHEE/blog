@@ -8,13 +8,15 @@ slug: /6d-pose-estimation
 showLikes: true
 showViews: true
 authors: 
-    - tripleyoung
+    - YOUNTAEHEE
 showAuthor: article.showAuthor
 draft: false
 series: ["6D Object Pose Estimation 논문 리뷰"]
 series_order: 1
 showTable: true
 ---
+## 논문 리뷰를 시작해야겠다는 결심
+
 ## 논문 리뷰를 시작해야겠다는 결심
 제가 XR 회사를 다닐때, 타 업체의 AR 오브젝트 트랙킹 솔루션들을 리서치를 해봤습니다.
 vuforia, wikitude 등 쟁쟁한 AR 업체들의 솔루션들을 보았는데, 괜찮은 오브젝트 트랙킹이 없었습니다.

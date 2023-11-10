@@ -1,13 +1,13 @@
 colorScheme = "blowfish"
 mainSections = ["posts"]
 [firebase]
-  apiKey = "AIzaSyB-kPBeiIUcGr4cLjeRFSX_KxG9dAifX1M"
-  authDomain = "blog-c3555.firebaseapp.com"
-  projectId = "blog-c3555"
-  storageBucket = "blog-c3555.appspot.com"
-  messagingSenderId = "723303301054"
-  appId = "1:723303301054:web:78315ee34805c190a1c3ef"
-  measurementId = "G-V2EB1Q4KTV"
+  apiKey =  "AIzaSyCjTaNdQ58nm9rKInK3DcfJu4HBmI87qSM"
+  authDomain ="blog-b1e2a.firebaseapp.com"
+  projectId = "blog-b1e2a"
+  storageBucket = "blog-b1e2a.appspot.com"
+  messagingSenderId = "314987944316"
+  appId = "1:314987944316:web:386c8a984fa2545ded6cf9"
+  measurementId = "G-44Y22LXQ98"
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
